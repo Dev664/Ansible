@@ -14,6 +14,8 @@ In this lab, you will learn how to:
 ---
 
 # Lab Architecture
+![Uploading image.png…]()
+
 
 ```
                 AWS VPC
